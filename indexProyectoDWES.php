@@ -48,16 +48,22 @@
                             <li><a href="doc/EstudioTema2.pdf">Tema 2: Instalación, configuración y documentación del entorno de desarrollo y del entorno de explotación</a></li>
                             <li><a href="../proyectoTema3/indexProyectoTema3.php">Tema 3: Características del lenguaje PHP</a></li>
                             <li><a href="../proyectoTema4/indexProyectoTema4.php">Tema 4: Características del lenguaje PHP</a></li>
-                            <li><a href="../MtoDeDepartamentosTema4/indexMtoDepartamentosTema4.php">Mantenimiento de Departamentos</a></li>
-                            <li><a href="../proyectoTema5/indexProyectoTema5.php">Tema 5: Desarrollo de aplicaciones web utilizando código embebido.</a></li>
+                            <li><a href="../MtoDeDepartamentosTema4/indexMtoDepartamentosTema4.php">Aplicación Mantenimiento Departamentos Tema 4</a></li>
+                            <li><a href="../proyectoTema5/indexProyectoTema5.php">Tema 5: Desarrollo de aplicaciones web utilizando código embebido</a></li>
+                            <li><a href="../LoginLogoffTema5/codigoPHP/Login.php">Aplicación LoginLogoff Tema 5</a></li>
                         </ul>
                     </div>
 		</main>
 		
 		<footer>
-			<div>
-				<h3>2020-2021 - Nacho del Prado Losada - ignacio.pralos@educa.jcyl.es</h3>
-			</div>
+                    <div class="enlaces">
+                        <a href="https://github.com/NachoPLSauces" target="_blank"><img src="doc/github-icon.png" alt="github"></a>
+                        <a href="http://daw202.ieslossauces.es/" target="_blank"><img src="doc/1and1-icon.png" alt="github"></a>
+                    </div>
+                    <div class="nombre">
+                        <h3>Nacho del Prado Losada</h3>
+                        <h3>ignacio.pralos@educa.jcyl.es</h3>
+                    </div>
 		</footer>
 	</body>
 </html>
