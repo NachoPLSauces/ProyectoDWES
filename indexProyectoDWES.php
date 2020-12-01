@@ -43,15 +43,34 @@
 		
 		<main>
                     <div class="contenido">
-                        <ul>
-                            <li><a href="doc/EstudioTema1.pdf">Tema 1: Desarrollo Web en Entorno Servidor</a></li>
-                            <li><a href="doc/EstudioTema2.pdf">Tema 2: Instalación, configuración y documentación del entorno de desarrollo y del entorno de explotación</a></li>
-                            <li><a href="../proyectoTema3/indexProyectoTema3.php">Tema 3: Características del lenguaje PHP</a></li>
-                            <li><a href="../proyectoTema4/indexProyectoTema4.php">Tema 4: Características del lenguaje PHP</a></li>
-                            <li><a href="../MtoDeDepartamentosTema4/indexMtoDepartamentosTema4.php">Aplicación Mantenimiento Departamentos Tema 4</a></li>
-                            <li><a href="../proyectoTema5/indexProyectoTema5.php">Tema 5: Desarrollo de aplicaciones web utilizando código embebido</a></li>
-                            <li><a href="../LoginLogoffTema5/codigoPHP/Login.php">Aplicación LoginLogoff Tema 5</a></li>
-                        </ul>
+                        <table>
+                            <tr>
+                                <td><a href="doc/EstudioTema1.pdf">Tema 1: Desarrollo Web en Entorno Servidor</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td><a href="doc/EstudioTema2.pdf">Tema 2: Instalación, configuración y documentación del entorno de desarrollo y del entorno de explotación</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td><a href="../proyectoTema3/indexProyectoTema3.php">Tema 3: Características del lenguaje PHP</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td><a href="../proyectoTema4/indexProyectoTema4.php">Tema 4: Características del lenguaje PHP</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td><a href="../MtoDeDepartamentosTema4/indexMtoDepartamentosTema4.php">Aplicación Mantenimiento Departamentos Tema 4</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td><a href="../proyectoTema5/indexProyectoTema5.php">Tema 5: Desarrollo de aplicaciones web utilizando código embebido</a></td>
+                            </tr>
+                            <tr>
+                                <td><a href="../LoginLogoffTema5/codigoPHP/Login.php">Aplicación LoginLogoff Tema 5</a></td>
+                            </tr>
+                        </table>
                     </div>
 		</main>
 		

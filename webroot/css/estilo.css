@@ -77,40 +77,43 @@ nav a:hover {
 
 /* Main */
 main{
-    height: 78%;
+    height: auto;
     border: 1px solid transparent;
     background-color: #e4e4e4;
 }
 
 .contenido {
     margin: 5% 10%;
-    height: 80%;
+    height: auto;
 }
 
-ul{
-    list-style: none;
-    padding: 10px 0;
-    background-color: white;
+table{
+    border-right: 0;
+    width: 100%;
 }
-ul li{
+tr td {
     transition-duration: .8s;
     transition-timing-function: ease-out;
-    padding: 15px 0;
+    background-color: white;
+    height: 51px;
+    color: #333; 
 }
-ul li:hover{
+tr:hover td:first-of-type{
     background-color: #2ECC71;
     transition-duration: 1s;
 }
-ul li:hover a{
+tr:hover td a{
     color: white;
+    width: 100%;
     transition-duration: .3s;
 }
-ul li a{
+td a{
+    padding: 10px;
+    display: block;
     font-family: "Lato",sans-serif;
     font-size: 18px;
     color: #333;
     text-decoration: none;
-    padding-left: 10px;
 }
 
 /* Footer */
